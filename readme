@@ -1,0 +1,3 @@
+Flipkart data scraping project is about automation of login to flipkart, navigating to the desired page and inputting the 
+desired pincode and get the product info such as "Product name", "Price", "Rating", "Delivery date" for that particular pincode.
+This automation also include exporting the scraped data to an excel file and create charts out of the data in excel file
